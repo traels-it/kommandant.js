@@ -1,5 +1,5 @@
 {
-  "name": "kommandant",
+  "name": "kommandant.js",
   "version": "0.0.2",
   "description": "Stimulus controllers for the Kommandant gem",
   "main": "src/index.js",
