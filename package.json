@@ -1,0 +1,28 @@
+{
+  "name": "kommandant",
+  "version": "0.0.1",
+  "description": "Stimulus controllers for the Kommandant gem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/traels-it/kommandant.js.git"
+  },
+  "keywords": [
+    "kommandant",
+    "stimulus",
+    "command",
+    "palette",
+    "tailwindcss",
+    "rails",
+    "ruby"
+  ],
+  "author": "\"Nicolai Bach Woller <woller@traels.it> (https://traels.it)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/traels-it/kommandant.js/issues"
+  },
+  "homepage": "https://github.com/traels-it/kommandant.js#readme"
+}
